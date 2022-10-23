@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>my profile/<title>
+</head>
+<body>
+<h1>NOWAMANI TRUTH</h1>
+<h2>BACHELOR OF INFORMATION TECHNOLOGY</h2>
+<IMG src="IMG20220521_132339_072.JPG"height="40%"WIDTH="40%"alt=""/>
+<a href="nowamanitruth22@gmail.com">nowamanitruth22@gmail.com</a>
+<div>
+<h4>MY RECENT WORK</h4>
+<u1>
+<Li>networking</Li>
+<Li>computing</Li>
+<Li>web design</Li>
+</u1>
+</div>
+<selection>
+<h3>contact me</h3>
+<p style="text-align:left">phone number:0782606270
+<p style="text-align:left">email: nowamanitruth22@gmail.com
+</selection>
+</body>
+</html>
